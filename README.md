@@ -12,7 +12,7 @@ This Custom User Registration System is built on following technologies,
 
 
 To change the background image, 
- - Goto the 'index.html' and locate '<style>' tags
+ - Goto the 'index.html' and locate <style> tags
  - In body{}, change the 'url' by making "image/anime-back.jpg" to your directory (remember include file extension) 
 
 
@@ -22,8 +22,8 @@ Here is the guide to setup this project on your web server or host it on your do
 * To change the heading "Custom User Registration System", 
  (1) Open the index.html file in text editor or any HTML editor (Sublime Text 3.0 or Notepad++ ...)
  (2) Locate <title>, change the content
- (3) Locate class="navbar-brand", and after the closing tags '>', change the content uptil '</a>' tags
- (4) To change the About content in Navbar, locate the the first '<li>' tags inside of '<ul>' tags, change the 'title' and
+ (3) Locate class="navbar-brand", and after the closing tags >, change the content uptil </a> tags
+ (4) To change the About content in Navbar, locate the the first <li> tags inside of <ul> tags, change the 'title' and
      'data-content'
  (5) Now we need to setup our database, goto 'phpmyadmin' and create a new database
  (6) Create a table named 'user_reg', and create '7' rows
