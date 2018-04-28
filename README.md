@@ -10,8 +10,8 @@ This Custom User Registration System is built on following technologies,
 * Custom CSS is also used with the page
 
 This System comprise of,
-* A cool registration form
-* A Search System which visualizes the users in our database
+* A cool registration form - index.html
+* A Search System which visualizes the users in our database - fetch.php
 
 
 To change the background image, 
