@@ -23,7 +23,7 @@ To change the background image,
 
 
 
-Here is the guide to setup this project on your web server or host it on your domain,
+Here is the guide to setup this project on your local web server (XAMPP etc...) or host it on your domain,
 
 * To change the heading "Custom User Registration System", 
  (1) Open the index.html file in text editor or any HTML editor (Sublime Text 3.0 or Notepad++ ...)
