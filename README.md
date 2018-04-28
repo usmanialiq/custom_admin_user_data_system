@@ -32,7 +32,7 @@ Here is the guide to setup this project on your web server or host it on your do
  * Third row must be 'email', VARCHAR 
  * Forth row must be 'contact', VARCHAR
  * Fifth row must be 'cnic', VARCHAR (you can change it to any other info you want but you need to change 'cnic' everywhere 
-      in 'fetch.php' and 'confirm.php'and even in the 'index.html'
+      in 'fetch.php' and 'confirm.php' and even in the 'index.html'
  * Sixth row must be 'institute', VARCHAR
  and,
  * Seventh row must be 'gender', VARCHAR
