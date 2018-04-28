@@ -9,6 +9,9 @@ This Custom User Registration System is built on following technologies,
 * AJAX
 * Custom CSS is also used with the page
 
+This System comprise of,
+* A cool registration form
+* A Search System which visualizes the users in our database
 
 
 To change the background image, 
