@@ -14,7 +14,10 @@ To change the background image,
  - Goto the 'index.html' and locate '<style>' tags
  - In body{}, change the 'url' by making "image/anime-back.jpg" to your directory (remember include file extension) 
 
+This System comprise of,
 
+* A cool registration form
+* A Search System which visualizes the users in our database
 
 Here is the guide to setup this project on your web server or host it on your domain,
 
